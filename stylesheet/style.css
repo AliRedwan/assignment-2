@@ -366,7 +366,7 @@ text-align: center;
 
 @media screen and (max-width:576px){
     /* .header_section */
-    header,.header_section,.second_sec,.footer,.our_sponspors,.boxes,.top_banner_img img, .feature_2 img,.feature_2,.boxes{
+    header,.header_section,.second_sec,.footer,.our_sponspors,.boxes,.top_banner_img img, .feature_2 img,.feature_2,.boxes,.Subscribe{
             width: 100%;
     }
     nav{
@@ -498,7 +498,12 @@ text-align: center;
         width: 70%;
     }
     /* .our_sponspors */
-    
+    /* .newsletter */
+    .newsletter .input {
+        width: 100%;
+        padding: 20px 5px ;
+    }
+    /* .newsletter */
     /* footer  */
     .footer{
     padding: 40px 0px;
